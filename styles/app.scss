@@ -9,6 +9,11 @@
 
 // YOUR CODE
 // Starting writing your stuff below here
+// RESET
+// Smooths out the rough edges across browsers
+@use 'node_modules/leaflet/dist/leaflet';
+
+// VARIABLES
 .container {
   max-width: 630px;
   margin: 30px auto;
